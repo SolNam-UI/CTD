@@ -1,2 +1,2 @@
-# CTD
-CNN Turtle Drawing
+# QDC
+QuickDraw CNN prediction
